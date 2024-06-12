@@ -178,5 +178,3 @@ if __name__ == "__main__":
 
 - Parses command-line arguments to get the directory path and S3 bucket name.
 - Calls the `main` function with the parsed arguments.
-
----# S3-Backup-Script
