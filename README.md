@@ -31,7 +31,7 @@ You must also ensure that your AWS IAM user has the necessary permissions to upl
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/s3_backup.git
+   git clone https://github.com/AndrejsMihailicenko/S3-Backup-Script.git
    cd s3_backup
    ```
 
